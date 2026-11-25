@@ -69,6 +69,7 @@ Tools that generate UI for people building products. These are a neighbour of ru
 
 - [v0](https://v0.dev) – Vercel's tool for generating React and Tailwind interfaces from prompts.
 - [Google Stitch](https://stitch.withgoogle.com) – Google Labs' design canvas that turns prompts into UI designs and frontend code.
+- [Kite](https://kite.new) – A design canvas where AI agents connect over a hosted MCP server and draw editable layers (frames, text, components, auto layout) that a team then edits, with frames exportable as HTML, React or Tailwind.
 - [wandb/openui](https://github.com/wandb/openui) – An open-source tool for describing a UI and seeing it rendered live.
 - [tldraw make-real](https://github.com/tldraw/make-real) – Draw a wireframe and turn it into a working HTML prototype.
 
